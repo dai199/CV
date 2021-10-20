@@ -7,8 +7,7 @@
 |名前|田上大貴(Tagami Daiki)|
 |Blog|[tagamidaiki.com](https://tagamidaiki.com)|
 |Twitter|[@DAI199](https://twitter.com/DAI199)|
-
-
+|プログラミング歴|2010年ごろから|
 
 ## スキル
 ### プログラミング言語
